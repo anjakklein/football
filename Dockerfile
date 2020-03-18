@@ -1,5 +1,5 @@
 # ein Kommentar
-# 2. Fix Docker
+# 2. Fix und Feature Dockerfile
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
